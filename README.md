@@ -62,9 +62,13 @@ Oyun tamamlandığında, toplam doğru ve yanlış sayınızı görebilirsiniz.
 
 📸 Ekran Görüntüsü
 ![image](https://github.com/user-attachments/assets/7295bc02-ebc0-4399-8b05-9c4175a3ebe6)
-![image](https://github.com/user-attachments/assets/25adf3fd-d390-4f80-b88b-f426054cd8a9)
-![image](https://github.com/user-attachments/assets/1abe9e3d-bf4c-4520-973c-0dd14f9da97f)
-![image](https://github.com/user-attachments/assets/f43a8253-065e-4e84-bbab-4ee5460cca39)
+![image](https://github.com/user-attachments/assets/b6b7000e-a058-43d4-b8fd-ad2536dbaddd)
+![image](https://github.com/user-attachments/assets/43fcb2f5-8fb1-459f-8821-a5ec88b3c606)
+![image](https://github.com/user-attachments/assets/b3cd5a49-ab5e-4f53-a620-56b1cb36f723)
+
+
+
+
 
 
 
